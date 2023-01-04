@@ -18,5 +18,5 @@ Desenvolvi esse projeto com as seguintes tecnologias:
 <br>
 <div align-items="center" display="flex">
 <img src="https://github.com/camilabfarias/easy-shopping/blob/master/print-site.png?raw=true" width="700px">
-<img src="https://github.com/camilabfarias/easy-shopping/blob/master/print-celular.png?raw=true" margin-right="10px">
+<img src="https://github.com/camilabfarias/easy-shopping/blob/master/print-celular.png?raw=true" margin-right="20px">
 </div>
