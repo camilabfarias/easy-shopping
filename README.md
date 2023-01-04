@@ -6,7 +6,7 @@ Esse foi um dos meus primeiros projetos de quando iniciei no DevClub.
 <br>
 <br>
 
-## :computer: Tecnologias e Linguagens
+## :computer: Tecnologias
 Desenvolvi esse projeto com as seguintes tecnologias:
 - HTML
 - CSS
